@@ -1,0 +1,1 @@
+docker run -itd --name cont_apache -p 8080:80 img_apache

@@ -1,0 +1,1 @@
+docker run -itd --rm --name cont_expose -p 8080:80 img_expose
